@@ -94,4 +94,4 @@ Focus: Wireless Comms, Signal Processing, Embedded Systems
 
 - 📧 Email: nandigaa@mail.uc.edu  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/apoorva-nandigama-7312631b0)  
-- 📄 [Resume (PDF)]([https://drive.google.com/file/d/1XCnJsONUnkBxUBbzMv4xz56gian4VjoN/view?usp=drive_link](https://drive.google.com/file/d/1QsvPGoLobrujadPG0lzWsLIGs4uoJMoA/view?usp=sharing))
+- 📄 [Resume (PDF)](https://drive.google.com/file/d/1QsvPGoLobrujadPG0lzWsLIGs4uoJMoA/view?usp=drive_link)
